@@ -1,0 +1,14 @@
+C:\Users\91760\Downloads\Day 3\WelcomeApp\WelcomeApp\obj\Debug\net6.0\WelcomeApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\91760\Downloads\Day 3\WelcomeApp\WelcomeApp\obj\Debug\net6.0\WelcomeApp.AssemblyInfoInputs.cache
+C:\Users\91760\Downloads\Day 3\WelcomeApp\WelcomeApp\obj\Debug\net6.0\WelcomeApp.AssemblyInfo.cs
+C:\Users\91760\Downloads\Day 3\WelcomeApp\WelcomeApp\obj\Debug\net6.0\WelcomeApp.csproj.CoreCompileInputs.cache
+C:\Users\91760\Downloads\Day 3\WelcomeApp\WelcomeApp\bin\Debug\net6.0\WelcomeApp.exe
+C:\Users\91760\Downloads\Day 3\WelcomeApp\WelcomeApp\bin\Debug\net6.0\WelcomeApp.deps.json
+C:\Users\91760\Downloads\Day 3\WelcomeApp\WelcomeApp\bin\Debug\net6.0\WelcomeApp.runtimeconfig.json
+C:\Users\91760\Downloads\Day 3\WelcomeApp\WelcomeApp\bin\Debug\net6.0\WelcomeApp.dll
+C:\Users\91760\Downloads\Day 3\WelcomeApp\WelcomeApp\bin\Debug\net6.0\WelcomeApp.pdb
+C:\Users\91760\Downloads\Day 3\WelcomeApp\WelcomeApp\obj\Debug\net6.0\WelcomeApp.dll
+C:\Users\91760\Downloads\Day 3\WelcomeApp\WelcomeApp\obj\Debug\net6.0\refint\WelcomeApp.dll
+C:\Users\91760\Downloads\Day 3\WelcomeApp\WelcomeApp\obj\Debug\net6.0\WelcomeApp.pdb
+C:\Users\91760\Downloads\Day 3\WelcomeApp\WelcomeApp\obj\Debug\net6.0\WelcomeApp.genruntimeconfig.cache
+C:\Users\91760\Downloads\Day 3\WelcomeApp\WelcomeApp\obj\Debug\net6.0\ref\WelcomeApp.dll
